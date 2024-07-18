@@ -1,0 +1,3 @@
+color:
+background: #fceae9
+button: #fd3984

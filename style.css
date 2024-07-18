@@ -1,0 +1,53 @@
+/* body style */
+body{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  /* subscribe section start */
+.subscribe{
+    /* margin: 0 100px; */
+    background-color: #fceae9;
+    margin: 20px 30px 50px 20px;
+}
+.form_content{
+    width: 400px;
+    margin: 0px auto;
+    padding: 50px 0px 40px 0px;
+}
+.form_text h1{
+    text-transform: uppercase;
+    font-size: 38px;
+    margin: 0px;
+}
+.form_text p{
+    font-weight: 500;
+}
+form input{
+    display: block;
+    /* margin: 0px auto; */
+}
+form input[type="email"]{
+    width: 100%;
+    margin: 10px 0px 20px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn-primary{
+    background-color:#fd3984;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+}
+/* subscribe end */
+
+/* footer start */
+.footer_text{
+    text-align: center;
+}
+/* footer end */
