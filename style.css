@@ -10,6 +10,7 @@ body{
     /* margin: 0 100px; */
     background-color: #fceae9;
     margin: 20px 30px 50px 20px;
+    border-radius: 5px;
 }
 .form_content{
     width: 400px;
